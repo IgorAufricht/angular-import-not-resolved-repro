@@ -1,6 +1,8 @@
 # Problem reproduction
 
-This is a reproduction repo for a "Appears in the NgModule.imports of AppModule, but could not be resolved to an NgModule class" problem, which shows when using `npm link` (such as when using lerna). Linked Angular issue: [#35447](https://github.com/angular/angular/issues/35447)
+This is a reproduction repo for a "Appears in the NgModule.imports of AppModule, but could not be resolved to an NgModule class" problem, which shows when using `npm link` (such as when using lerna).
+
+Angular github issue: [#35447](https://github.com/angular/angular/issues/35447)
 
 ## Steps to reproduce
 * checkout the repo
